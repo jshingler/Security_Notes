@@ -6,5 +6,6 @@
 
 [MITREid Connect](https://github.com/mitreid-connect)
 
+[Learn Spring Security](http://www.baeldung.com/learn-spring-security-course)
 
 
