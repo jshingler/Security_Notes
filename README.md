@@ -8,4 +8,5 @@
 
 * [Learn Spring Security](http://www.baeldung.com/learn-spring-security-course)
 
+[Blog Series - Building Microservices](http://callistaenterprise.se/blogg/teknik/2015/05/20/blog-series-building-microservices/)
 
